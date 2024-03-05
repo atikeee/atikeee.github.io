@@ -26,12 +26,12 @@
     
 |N|S|N|S|N|S|Comment|
 |--|--|--|--|--|--|--|
-|2♣|  |  |  |  |  | 22+ hcp |
-|2♣|2♦|  |  |  |  | <8 pts |
-|2♣|2♥|  |  |  |  | 5+H|
-|2♣|2♠|  |  |  |  | 5+S|
+|2♣|  |  |  |  |  | 22+ hcp (balance) 18+ (imbalance) |
+|2♣|2♦|  |  |  |  | <8 pts (call continue) |
+|2♣|2♥|  |  |  |  | 5+H (can have less points)|
+|2♣|2♠|  |  |  |  | 5+S (can have less points)|
 |2♣|2x|2N|  |  |  | 23-24 pts,balanced|
-|2♣|2N|  |  |  |  | 8-10 pts ,no 5 card suit|
+|2♣|2N|  |  |  |  | 8-10 pts (balance) ,no 5 card suit|
 |2♣|2x|3N|  |  |  | 25-27 pts,balanced|
 |2♣|3♣|  |  |  |  | 7+pts,5+C|
 |2♣|3♦|  |  |  |  | 7+pts,5+C|
@@ -42,12 +42,12 @@
 
     
 ## Opening Major:
-    - Must have 5 card and must have 12~21 HCP  
-    - [BROMAD](https://bridgebum.com/bromad.php):
+    - Must have 5 card and must have 12~21 HCP  (most of the time it indicates 12~15 points)
+    - [BROMAD](https://bridgebum.com/bromad.php)If opponents DOUBLE:
         * redouble denies 3 card support (10+ pts) 
         * 2♣ - 8-9 dummy points 3 card support
         * 2♦ - 10-12 3 card support 
-        * 1 level raise preemptive (weak) 
+        * 1 level raise of partner preemptive (weak) 
         * jump raise 4 card support
     - In general, a splinter bid is a jump in a new suit, shows shortness with support in partner’s bid suit, promises four trumps, and is forcing; suggesting a slam.
     
@@ -345,6 +345,7 @@ Dont use when
     - 2♣ -> 3 card support with 10~ pts  
 
 ### defence of 1 level call: cue bidding / unusal 2N
+	- cue bidding applies when there is Trump support but little less than game point. mainly for major. (https://www.youtube.com/watch?v=Dag8LscJHEs)
     - no min point requires
     - typically good for weak / very strong. 
     - [cue biding](https://bridgebum.com/michaels_cuebid.php)  
@@ -352,6 +353,11 @@ Dont use when
     - [ls/gs](https://www.bridgewebs.com/alton/Cue%20Bidding.pdf)  
     - must not pass
     - for 2N over call with 20+ points call double first and then 2N. 
+	
+|opponent|call open|meaning| 
+|--|--|--|
+|(1♥)|2♥||
+
       
 |opponent|call open|meaning| 
 |--|--|--|
@@ -398,7 +404,4 @@ Dont use when
    
 ## Scoring  [△](#index)
   
-  
-  ![Scoring 1](bridge/scoring1.png)  
-    
-  ![Scoring 2](bridge/scoring2.png)  
+ 

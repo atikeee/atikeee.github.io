@@ -270,7 +270,9 @@
   
   
 ### RKC Blackwood convention
+
 After trump decided
+
 |call|response|meaning| 
 |--|--|--|
 |4N||asking for kc 0314|

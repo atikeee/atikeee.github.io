@@ -269,7 +269,15 @@
 |5♣|5N|3 K|  
   
   
+### RKC Blackwood convention
+After trump decided
+|call|response|meaning| 
+|--|--|--|
+|4N||asking for kc 0314|
+
+
 ### Blackwood convention
+
 Dont use when
 * holding 2 or more cards with no A/K (xx,Qx,jx)
 * holding void
@@ -344,8 +352,9 @@ Dont use when
     - partner calls major after a pass 
     - 2♣ -> 3 card support with 10~ pts  
 
-### defence of 1 level call: cue bidding / unusal 2N
-	- cue bidding applies when there is Trump support but little less than game point. mainly for major. (https://www.youtube.com/watch?v=Dag8LscJHEs)
+### Overcall - defence of 1 level call: cue bidding / unusal 2N
+	- 2 type of cue bidding one in 2nd seat as an opener and one in 3rd seat as responder. 
+	- cue bidding applies when there is Trump support but little less than game point. mainly for major.on third seat (https://www.youtube.com/watch?v=Dag8LscJHEs)
     - no min point requires
     - typically good for weak / very strong. 
     - [cue biding](https://bridgebum.com/michaels_cuebid.php)  
@@ -354,18 +363,22 @@ Dont use when
     - must not pass
     - for 2N over call with 20+ points call double first and then 2N. 
 	
-|opponent|call open|meaning| 
-|--|--|--|
-|(1♥)|2♥||
+|partner|opponent|we |call open|meaning| 
+|----|--|--|--|
+|1♥♠|(2m)|3m|almost gaming hand with 3 card support|
+
 
       
 |opponent|call open|meaning| 
 |--|--|--|
 |(1♣)|2♣|5+H and 5+S |
+|(1♣)|2♣|5+H and 5+S |
 |(1♦)|2♦|5+H and 5+S|
 |(1♥)|2♥|5+S and 5+m/respond 2N to ask m|
 |(1♠)|2♠|5+H and 5+m/respond 2N to ask m|
+|(1♣)|2♦|5+D and 5+H|
 |(1♣)|2N|two lowest unbid suit  |
+|(1♣)|3♣|two highest unbid suit  |
 |(1♣)|2N|5+H and 5+D  |
 |(1♦)|2N|5+H and 5+C|
 |(1♥)|2N|5+m both|
@@ -377,10 +390,16 @@ Dont use when
   - must respond for m
   - [Astro](https://bridgebum.com/astro.php) 
   - [Aspro](https://www.acblunit390.org/Simon/aspro.htm)  
+  - pin point astro better
+		2Club: Clubs and hearts
+		2Diamond: Diamonds and hearts
+		2Heart: Hearts and spades
+		2Spade: Spades and a minor
+		
 
 |opponent|call open|response|meaning| 
 |--|--|--|--|
-|(1N)|double||15+ HCP|
+|(1N)|double||15+ HCP same as opening|
 |(1N)|2♣||Hearts + minor 5-4 / 4-5 10+pts |
 |(1N)|2♣|2♦|denies H, prefered m|
 |(1N)|2♣|2♥|sign off|

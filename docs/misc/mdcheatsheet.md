@@ -316,8 +316,11 @@ Vehicle <|-- Car
 ## Add Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)  
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)  
-
-
+interesting example of creating image text
+https://placehold.co/600x400/EEE/F1343C?font=raleway&text=Raleway  
+[600x400 raleway](https://placehold.co/600x400/EEE/F1343C?font=raleway&text=Raleway) 
+https://placehold.co/600/EEE/F13FFC?font=playfair-display&text=Playfair%20Display  
+[600x600](https://placehold.co/600/EEE/F13FFC?font=playfair-display&text=Playfair%20Display)  
 ## links to learn more  
 
 [emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)  

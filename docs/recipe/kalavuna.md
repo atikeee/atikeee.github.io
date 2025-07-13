@@ -22,14 +22,15 @@
 | Lobongo               | 6                        |                                                                     |
 | Cinamon               | 12 cm                    |                                                                     |
 | StarAnis              | 4                        |                                                                     |
-| Chili Powder          | 2 TBsp                   | (Can be a specific type like `Kashmiri lal` for color/mild heat).   |
+| Chili Powder          | 2 TBsp                   | |
 | Turmeric Powder       | ½ tsp                    |                                                                     |
 | Salt                  | 1 TBsp                   | Adjust to taste.                                                    |
 | coriander powder      | 2 TBsp                   |                                                                     |
 | oil                   | 1 Cup                    | saved from the beresta making.                                      |
 | Onion green           | 1 cup +1 cup             | (Chopped big)     1 cup for marination and 1 cup for last step.     |
   
-### mid cooking spices  
+### Mid cooking spices  
+
 | Item                  | Quantity (for 2 kg Beef) | Notes                                                               |
 | :-------------------- | :----------------------- | :------------------------------------------------------------------ |
 | Gol morich powder     | 0.5 tsp                  |                                                                     |

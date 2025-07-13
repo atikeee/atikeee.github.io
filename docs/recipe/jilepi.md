@@ -1,4 +1,4 @@
-# Yammy and easy **JILAPI** recipe  
+# Yammy and easy ** জিলাপি ** recipe
 
 ## Ingredients 
 
@@ -47,4 +47,4 @@ lemon juice|1tbsp
 1. use catchup bottle to fry jilapi to golden brown. 
 1. Syrap should be prepared ahead few min before. 
 1. put fried jilapi to the warm syrap.  
-1. soak in syrap for 15~30 sec. 
+1. soak in syrap for 15~30 sec.

@@ -204,6 +204,9 @@
 |1♣|2N|  |  |  |  | 10~12 pts/ balanced. not jacoby 2N|
 |1♣|3♣|  |  |  |  | 5~9 dummy pts, 4+C|  
 |1♣|3N|  |  |  |  | 13~15 pts/ balanced|
+|1♣|3M|  |  |  |  | 13+ dummy pts/ shortness in M|
+
+
    
    
 <a name="1♦"/> 
@@ -222,7 +225,7 @@
 |1♦|3♣|  |  |  |  | criss cross, limit raise value|  
 |1♦|3♦|  |  |  |  | 5~9 dummy pts, 4+D|  
 |1♦|3N|  |  |  |  | 13~15 pts/ balanced|
-
+|1♣|3M|  |  |  |  | 13+ dummy pts/ shortness in M|
 
 <a name="fsf">
 ## Fourth suite Forcing:  [△](#index)

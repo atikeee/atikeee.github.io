@@ -59,25 +59,31 @@
 2.  Mix everything THROUGHLY by hand, ensuring each piece of beef is well-coated with the spice mixture.
 3.  Cover the bowl tightly and place it in the refrigerator. Allow the beef to marinate for a full 24 hours to deeply infuse the flavors.
 
-### Cooking 
-***High Heat cooking phase. :***
-    1.  cook 5 min for high heat and mix . cover and mix until it shows oil . 20 to 25 min. 
-    2.  add cooking spice mix well for 2 min. 
-    3.  Keep it low heat.
-***Baghar prep***
-    1.  Onion on mustard oil high heat. cook couple of min. wait till onion color change. 
-    2.  add garlic slice later. wait for color change. 
-    3.  Cook few more min and rest of spices. when color is brown. 
-    4.  Add meat to the baghar oil and mix.  
-    5.  wait for a min covered. bring back all meat
-    6.  put the stove in medium heat. keep it covered for 5 min. 
-*** Final Step***
-    1.  Koshano till the color comes to satisfaction. 
-    2.  add cubed onion (1 cup) 
-    3.  add radhuni/ garam masala. 
-    4.  cook till the onion gets changed. 
-    5.  keep it covered stove is off for 5 min. 
-    6.  ready to serve. 
+### Cooking  
+
+***High Heat cooking phase. :***  
+
+1.  cook 5 min for high heat and mix . cover and mix until it shows oil . 20 to 25 min. 
+2.  add cooking spice mix well for 2 min. 
+3.  Keep it low heat.  
+
+***Baghar prep***  
+
+1.  Onion on mustard oil high heat. cook couple of min. wait till onion color change. 
+2.  add garlic slice later. wait for color change. 
+3.  Cook few more min and rest of spices. when color is brown. 
+4.  Add meat to the baghar oil and mix.  
+5.  wait for a min covered. bring back all meat
+6.  put the stove in medium heat. keep it covered for 5 min.  
+
+*** Final Step***  
+
+1.  Koshano till the color comes to satisfaction. 
+2.  add cubed onion (1 cup) 
+3.  add radhuni/ garam masala. 
+4.  cook till the onion gets changed. 
+5.  keep it covered stove is off for 5 min. 
+6.  ready to serve. 
 
 ---
-[Rumanar Rannaghar recipe](https://www.youtube.com/watch?v=fPHxBQzaAzI)  
+[Rumanar Rannaghar youtube recipe link](https://www.youtube.com/watch?v=fPHxBQzaAzI)  
